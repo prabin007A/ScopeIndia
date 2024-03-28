@@ -1,0 +1,11 @@
+﻿#home_logo {
+    /*    position:absolute;
+*/ margin-top: 150px;
+}
+
+#carousel {
+    max-width: 600px;
+    margin-left: 700px;
+    margin-top: 80px;
+    border-radius: 20px;
+}

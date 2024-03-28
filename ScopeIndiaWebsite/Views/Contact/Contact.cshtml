@@ -1,0 +1,73 @@
+﻿@model ScopeIndiaWebsite.Models.Contact
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        #contact{
+            position:relative;
+        }
+    </style>
+</head>
+<body>
+    <div class="container col-md-4 card-header" id="contact" style="border-radius:20px;position:absolute">
+        <div class="text-dark  ">
+            <h1 class="text-center">Contact Form</h1>
+        </div>
+        <div class="card-body">
+            <form asp-action="Contact" method="post" id="form">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="label-control"></label>
+                            <input type="text" asp-for="Name" class="form-control" name="Name" placeholder="Name" />
+                            <span asp-validation-for="Name"></span>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <label class="label-control"></label>
+                    <input type="text" asp-for="Email" name="Email" class="form-control" placeholder="Email Address" />
+                    <span asp-validation-for="Email"></span>
+                </div>
+
+                <div class="form-group">
+                    <label class="label-control"></label>
+                    <input type="text" asp-for="Subject" class="form-control" name="Subject" placeholder="Subject" />
+                    <span asp-validation-for="Subject"></span>
+                </div>
+
+                <div class="form-group">
+                    <label class="label-control"></label>
+                    <input type="text" asp-for="Message" class="form-control" name="Message" placeholder="Message" />
+                    <span asp-validation-for="Message"></span>
+                </div><br />
+
+                <div class="form-group text-center">
+                    <button class="btn btn-outline-success" type="submit">Send Email</button>
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+    <div id="cont" class="container card-header col-md-5" style="margin-left:700px;margin-top:40px;border-radius:20px">
+        <h1 class="text-center">Contact Details</h1><br />
+        <h3>Nagercoil, Tamil Nadu</h3><br />
+        <p><img style="max-width:30px" src="~/images/placeholder_819814.png" alt="icon" />&nbsp; SCOPE INDIA, Near WCC College, Palace Road, Nagercoil, Tamil Nadu 629001</p>
+        <p><img style="max-width:30px" src="~/images/phone_3014736.png" alt="icon" />&nbsp;<a class="text-black" style="text-decoration:none" href="tel:+8075536185"> 8075536185</a></p>
+        <p><img style="max-width:30px" src="~/images/email_552486.png" alt="icon" />&nbsp;<a class="text-black" style="text-decoration:none" href="mailto:info@scopeindia.org">info@scopeindia.org</a></p>
+        <p><img style="max-width:30px" src="~/images/link_593432.png" alt="icon" />&nbsp;<a class="text-black" style="text-decoration:none" href="https://scopeindia.org/">www.scopeindia.org</a> </p>
+        <p><img style="max-width:30px" src="~/images/map_854878.png" alt="icon" />&nbsp;<a class="text-black" style="text-decoration:none" href="https://maps.app.goo.gl/AUbyczfRUZkFdKu96"> Location Route Map</a></p>
+    </div>
+    @section Scripts {
+        @await Html.PartialAsync("/Views/Shared/_ValidationScriptsPartial.cshtml")
+    }
+
+</body>
+</html>

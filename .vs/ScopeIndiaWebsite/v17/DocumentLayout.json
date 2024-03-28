@@ -1,0 +1,676 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\aboutus\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\aboutus\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\profileedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\profileedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\wwwroot\\css\\animation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\wwwroot\\css\\animation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\registration\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\registration\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\entity\\scopedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\entity\\scopedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\contact\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\contact\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\existingpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\existingpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SCOPE/True/SqlTable/dbo.Student.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SCOPE/True/SqlTable/dbo.LoginDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\migrations\\scopedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\migrations\\scopedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\models\\studentupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\models\\studentupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\otp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\otp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\newpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\newpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\firsttimelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\firsttimelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\registration\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\registration\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\models\\firsttimelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\models\\firsttimelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\views\\login\\passwordcreation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\views\\login\\passwordcreation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\migrations\\20240313153354_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\migrations\\20240313153354_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|c:\\users\\prabi\\onedrive\\desktop\\c#\\dot net\\scopeindiawebsite\\scopeindiawebsite\\wwwroot\\js\\dynamic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0FBD215D-E2DD-4A95-9E5F-EBE6C6407B0B}|ScopeIndiaWebsite\\ScopeIndiaWebsite.csproj|solutionrelative:scopeindiawebsite\\wwwroot\\js\\dynamic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogInController.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Controllers\\LogInController.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Controllers\\LogInController.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Controllers\\LogInController.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Controllers\\LogInController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:04:22.848Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:21:43.834Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Registration\\Registration.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\Registration\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Registration\\Registration.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\Registration\\Registration.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:17:52.633Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Student [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SCOPE/True/SqlTable/dbo.Student.sql",
+              "ToolTip": "dbo.Student [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-13T15:39:38.232Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.LoginDetails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SCOPE/True/SqlTable/dbo.LoginDetails.sql",
+              "ToolTip": "dbo.LoginDetails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-20T13:40:53.8Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoard.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\DashBoard.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\DashBoard.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\DashBoard.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\DashBoard.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T15:56:40.387Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.css",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\wwwroot\\css\\Dashboard.css",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\wwwroot\\css\\Dashboard.css",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\wwwroot\\css\\Dashboard.css",
+              "RelativeToolTip": "ScopeIndiaWebsite\\wwwroot\\css\\Dashboard.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-24T09:52:11.365Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ScopeIndiaWebsite\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T14:08:18.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:12:40.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:07:05.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\AboutUs\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\AboutUs\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\AboutUs\\AboutUs.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\AboutUs\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:14:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Contact\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\Contact\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Contact\\Contact.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\Contact\\Contact.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:15:32.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\ProfileEdit.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\ProfileEdit.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\ProfileEdit.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\ProfileEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T15:58:10.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animation.css",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\wwwroot\\css\\Animation.css",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\wwwroot\\css\\Animation.css",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\wwwroot\\css\\Animation.css",
+              "RelativeToolTip": "ScopeIndiaWebsite\\wwwroot\\css\\Animation.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-14T16:00:19.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\Update.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\Update.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\Update.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T15:59:24.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScopeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Entity\\ScopeDbContext.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Entity\\ScopeDbContext.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Entity\\ScopeDbContext.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Entity\\ScopeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:31:20.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:20:31.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Contact\\Email.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\Contact\\Email.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Contact\\Email.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\Contact\\Email.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:16:14.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Program.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Program.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:43:33.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExistingPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\ExistingPassword.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\ExistingPassword.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\ExistingPassword.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\ExistingPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T16:01:43.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\LoginModel.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:48:32.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScopeDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Migrations\\ScopeDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Migrations\\ScopeDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Migrations\\ScopeDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Migrations\\ScopeDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:54:20.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\StudentUpdateModel.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Models\\StudentUpdateModel.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\StudentUpdateModel.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Models\\StudentUpdateModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:00:27.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\Students.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Models\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:36:04.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\Student.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:31:40.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Otp.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\Otp.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\Otp.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\Otp.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\Otp.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T15:52:43.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\Login.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\Login.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\Login.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T15:46:57.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\LogIn.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Models\\LogIn.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\LogIn.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Models\\LogIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:37:43.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NewPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\NewPassword.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\NewPassword.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\NewPassword.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\NewPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T16:02:23.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\ForgotPassword.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T15:55:08.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FirstTimeLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\FirstTimeLogin.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\FirstTimeLogin.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\FirstTimeLogin.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\FirstTimeLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T15:51:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\Contact.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:24:32.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Message.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Registration\\Message.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\Registration\\Message.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\Registration\\Message.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\Registration\\Message.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:18:25.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FirstTimeLogin.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\FirstTimeLogin.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Models\\FirstTimeLogin.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Models\\FirstTimeLogin.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Models\\FirstTimeLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:49:56.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\Logout.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T16:03:29.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PasswordCreation.cshtml",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\PasswordCreation.cshtml",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Views\\LogIn\\PasswordCreation.cshtml",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Views\\LogIn\\PasswordCreation.cshtml",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Views\\LogIn\\PasswordCreation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T15:54:13.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\appsettings.json",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\appsettings.json",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\appsettings.json",
+              "RelativeToolTip": "ScopeIndiaWebsite\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T14:41:45.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240313153354_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Migrations\\20240313153354_Initial.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Migrations\\20240313153354_Initial.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Migrations\\20240313153354_Initial.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Migrations\\20240313153354_Initial.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:33:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AboutUsController.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Controllers\\AboutUsController.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Controllers\\AboutUsController.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Controllers\\AboutUsController.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Controllers\\AboutUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:19:47.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ScopeIndiaWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:19:04.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Dynamic.js",
+              "DocumentMoniker": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\wwwroot\\js\\Dynamic.js",
+              "RelativeDocumentMoniker": "ScopeIndiaWebsite\\wwwroot\\js\\Dynamic.js",
+              "ToolTip": "C:\\Users\\prabi\\OneDrive\\Desktop\\c#\\DOT NET\\ScopeIndiaWebsite\\ScopeIndiaWebsite\\wwwroot\\js\\Dynamic.js",
+              "RelativeToolTip": "ScopeIndiaWebsite\\wwwroot\\js\\Dynamic.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-13T14:27:48.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

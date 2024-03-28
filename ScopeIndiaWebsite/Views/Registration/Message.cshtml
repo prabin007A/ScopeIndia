@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+    @if (ViewBag.success != null)
+    {
+        <h1 class="text-success">@ViewBag.success</h1>
+    }
+    else
+    {
+        <h1 class="text-danger">
+            @ViewBag.failed
+        </h1>
+    }
+</body>
+</html>

@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard</title>
+    <style>
+
+        #head {
+            padding: 20px 20px;
+            text-align: center;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+            nav ul li a {
+                text-decoration: none;
+                color: white;
+            }
+
+        section {
+            position:relative;
+            margin-top: 100px;
+            padding: 20px;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+
+        #cont {
+            color: darkblue;
+            border-radius: 15px;
+            font-size:20px;font-weight:900;
+        }
+    </style>
+    <link href="~/css/dashboard.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div id="head" style="position:absolute" class="container">
+    <h1 class="text-center" style="font-weight:900">Student Dashboard</h1>
+
+    <nav class="text-center">
+        <br />
+        <ul>
+            @*             <li><a class="text-white btn btn-success" asp-action="Course">Search For Courses</a></li>
+            *@
+            <li><a class="text-white btn btn-warning" asp-action="ProfileEdit">Profile Edit</a></li>
+            <li><a class="text-white btn btn-success" asp-action="ExistingPassword">Change Password</a></li>
+            <li><a class="text-white btn btn-danger" asp-action="Logout">Logout</a></li>
+        </ul>
+    </nav>
+    <section>
+        <div class="card-header" id="cont">
+            <h2 class="font-weight-bold text-uppercase">Welcome back, @ViewBag.name...!</h2>
+            <p>This is your dashboard. You can navigate through the links above to access different sections.For example, you can check your profile, update your profile information, or logout from your account.</p>
+        </div>
+    </section>
+    </div>
+    <div id="img">
+        <img style="width:150px;height:150px;border-radius:150px;margin-left:200px;margin-top:40px;border:2px solid black" src="@Url.Content(ViewBag.Image)" alt="Image" />
+    </div>
+</body>
+</html>

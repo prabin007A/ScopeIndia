@@ -1,0 +1,44 @@
+﻿@model ScopeIndiaWebsite.Models.FirstTimeLogin;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        #OTP {
+            margin-top: 50px;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="col-md-4 card-header" id="OTP">
+        <div class="">
+            <h1 class=" text-center text-dark">Enter your Otp</h1>
+        </div>
+        <div class="card-body">
+            <form asp-action="Otp" method="post">
+                <div class="row">
+                    <div class="form-group">
+                        <div class="">
+                            <input type="number" placeholder="Enter otp here" asp-for="Otp" class="form-control" />
+                            <span asp-validation-for="Otp"></span>
+                            <p class="text-danger">@ViewBag.Failed</p>
+                        </div>
+                    </div>
+                </div><br />
+                <div>
+                    <button type="submit" class="btn  btn-outline-success">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    @section Scripts {
+        @await Html.PartialAsync("/Views/Shared/_ValidationScriptsPartial.cshtml")
+    }
+
+
+</body>
+</html>

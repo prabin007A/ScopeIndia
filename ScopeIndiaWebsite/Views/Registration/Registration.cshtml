@@ -1,0 +1,145 @@
+﻿@model ScopeIndiaWebsite.Models.Student;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        #container{
+            margin-top:30px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="container" class="card-header" style="border-radius:20px">
+        <div class="text-center">
+            <h1>Student Registration Form</h1>
+        </div>
+
+        <div class="card-body">
+            <form asp-action="Registration" method="post" enctype="multipart/form-data">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="First_name" class="label-control">First Name</label>
+                            <input type="text" asp-for="First_name" class="form-control" />
+                            <span asp-validation-for="First_name"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Last_name" class="label-control">Last Name</label>
+                            <input type="text" asp-for="Last_name" class="form-control" />
+                        </div>
+                    </div>
+                </div><br />
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Gender" class="label-control">Gender : </label>
+                            <input type="radio" asp-for="Gender" value="Male" class="label-control" />Male
+                            <input type="radio" asp-for="Gender" value="Female" class="label-control" />Female
+                            <input type="radio" asp-for="Gender" value="Others" class="label-control" />Others <br />
+                            <span asp-validation-for="Gender"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <label asp-for="DateOfBirth" class="label-control">Date Of Birth</label>
+                            <input asp-for="DateOfBirth" class="form-control" />
+                            <span asp-validation-for="DateOfBirth"></span>
+                        </div>
+                    </div>
+                </div><br />
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Email" class="label-control">Email</label>
+                            <input type="email" asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger">@ViewBag.MS</span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Phone_number" class="label-control">Phone Number</label>
+                            <input type="tel" asp-for="Phone_number" class="form-control" />
+                            <span asp-validation-for="Phone_number"></span>
+                        </div>
+                    </div>
+                </div><br />
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Country" class="label-control">Country</label>
+                            <select id="country" asp-for="Country" name="country" class="form-select" onchange="UpdateState()" required>
+                                <option value="" disabled selected>Select Country</option>
+                                <option value="India">India</option>
+                                <option value="USA">USA</option>
+                            </select>
+                            <span asp-validation-for="Country"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="State" class="label-control">State</label>
+                            <select id="state" asp-for="State" name="state" class="form-select" onchange="UpdateCity()" required>
+                                <option value="" disabled selected>Select State</option>
+                            </select>
+                            <span asp-validation-for="State"></span>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="City" class="label-control">City</label>
+                            <select id="city" asp-for="City" name="city" class="form-select" required>
+                                <option value="" disabled selected>Select City</option>
+                            </select>
+                            <span asp-validation-for="City"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-check">
+                            <label for="hobbies">Hobbies : </label>
+                        </div>
+                        @{
+                            string[] hobbies = { "Playing games", "Reading books", "Listening music's", "Dancing", "Singing" };
+                        }
+                        @foreach (var hobby in hobbies)
+                        {
+                            <label>
+                                <input type="checkbox" name="Hobbies" value="@hobby" />@hobby
+                            </label>
+
+                            <br />
+                        }
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Avatar" class="form-label">Upload Avatar</label>
+                            <input type="file" name="myfile" asp-for="Avatar" class="form-control" />
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-outline-success">Submit</button>
+
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="~/js/dynamic.js"></script>
+    @section Scripts {
+        @await Html.PartialAsync("/Views/Shared/_ValidationScriptsPartial.cshtml")
+    }
+</body>
+</html>

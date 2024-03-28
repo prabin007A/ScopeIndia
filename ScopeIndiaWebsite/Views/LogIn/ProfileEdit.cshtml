@@ -1,0 +1,66 @@
+﻿@model List<ScopeIndiaWebsite.Models.Students>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        #tab {
+            margin-top: 30px;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container card-header" id="tab">
+        <div class="text-center">
+            <h1>Student Profile</h1>
+        </div><br />
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Full Name</th>
+                        <!-- <th>Last Name</th> -->
+                        <th>Gender</th>
+                        <th>DOB</th>
+                        <th>Email Address</th>
+                        <th>Phone</th>
+                        <th>Country</th>
+                        <th>State</th>
+                        <th>City</th>
+                        <th>Hobbies</th>
+                        <th>Avatar</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var std in Model)
+                    {
+                        <tr>
+                            <td>@std.First_name @std.Last_name</td>
+                            <!-- <td>@std.Last_name</td> -->
+                            <td>@std.Gender</td>
+                            <td>@std.DateOfBirth.ToString("dd-MM-yyyy")</td>
+                            <td>@std.Email</td>
+                            <td>@std.Phone_number</td>
+                            <td>@std.Country</td>
+                            <td>@std.State</td>
+                            <td>@std.City</td>
+                            <td>@std.Hobbie</td>
+                            <td>
+                                <img style="max-width: 100px; max-height: 100px; border: 2px solid black;" src="@Url.Content(std.Avatar)" alt="Alternate Text" />
+                            </td>
+                        </tr>
+                        <tr class="text-center">
+                            <td colspan="10">
+                                <a href="Update/@std.Id" class="btn btn-danger">Make Changes</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

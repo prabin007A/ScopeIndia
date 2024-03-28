@@ -1,0 +1,71 @@
+﻿@model ScopeIndiaWebsite.Models.LoginModel;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        #login {
+            position: relative;
+            margin-top: 40px;
+        }
+    </style>
+
+</head>
+<body>
+    <div id="login">
+        <div class="col-md-5 card-header" style="border-radius:20px">
+            <div class="text-dark">
+                <h1 class="text-center">LogIn</h1>
+            </div>
+            <div class="card-body">
+                <form asp-action="Login" method="post">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label asp-for="Email" class="label-control">Email</label>
+                                <input type="email" asp-for="Email" placeholder="Enter email address" class="form-control" />
+                                <span asp-validation-for="Email"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label asp-for="Password" class="label-control">Password</label>
+                                <input type="password" placeholder="Enter password" asp-for="Password" class="form-control" />
+                                <span asp-validation-for="Password"></span> <span class="text-danger">@ViewBag.fail </span>
+                            </div>
+                        </div>
+                    </div><br />
+                    <div class="row">
+                        <div class="form-check ">
+                            <label asp-for="CheckBox" class="label-control ">Keep me loggedin :</label>&nbsp;
+                            <input type="checkbox" asp-for="CheckBox" for="Loggedin" />
+                        </div>
+
+                    </div><br />
+                    <div class="col-md-12 text-center">
+                        <button type="submit" class="btn btn-outline-success">LogIn</button>
+                    </div><br />
+
+                    <div class="row col-md-6">
+                        <div class="form-group">
+                            <a asp-action="FirstTimeLogin">First time Login?</a>
+                        </div>
+                        <div class="form-group">
+                            <a asp-action="ForgotPassword">Forgot password?</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <span class="text-success">@ViewBag.update</span>
+    <span class="text-success">@ViewBag.success</span>
+    <span>@ViewBag.message</span> @*Error mesage*@
+    @section Scripts {
+        @await Html.PartialAsync("/Views/Shared/_ValidationScriptsPartial.cshtml")
+    }
+</body>
+</html>

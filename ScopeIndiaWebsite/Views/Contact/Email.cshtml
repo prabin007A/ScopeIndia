@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+    @if (ViewBag.success != null)
+    {
+        <div class="card-header">
+            <h1 class="text-dark">Mail Content</h1>
+            <p>Name : @ViewBag.Name</p>
+            <p>Email Id : @ViewBag.Email</p>
+            <p>Subject : @ViewBag.Subject</p>
+            <p>Message : @ViewBag.Message</p>
+            <h4 class="text-success">@ViewBag.success</h4>
+        </div>
+    }
+    else
+    {
+        <h4 class="text-danger">
+            @ViewBag.failed
+        </h4>
+    }
+</body>
+</html>

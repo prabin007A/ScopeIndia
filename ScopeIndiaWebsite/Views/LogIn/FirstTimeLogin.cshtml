@@ -1,0 +1,38 @@
+﻿@model ScopeIndiaWebsite.Models.FirstTimeLogin;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        #FL{
+            margin-top:50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="col-md-5 card-header" id="FL">
+        <div class="">
+            <h1 class=" text-center text-dark">First time login</h1>
+        </div>
+        <div class="card-body">
+            <form asp-action="FirstTimeLogin" method="post">
+                <div class="row">
+                    <div class="form-group">
+                        <label asp-for="Email" class="label-control">Email</label>
+                        <input type="email" placeholder="Enter email address" asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email"></span><span class="text-danger">@ViewBag.messa</span>
+                    </div>
+                </div><br />
+                <div>
+                    <button type="submit" class="btn  btn-success">Create</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    @section Scripts {
+        @await Html.PartialAsync("/Views/Shared/_ValidationScriptsPartial.cshtml")
+    }
+</body>
+</html>
